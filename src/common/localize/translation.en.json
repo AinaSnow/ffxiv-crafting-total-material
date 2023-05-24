@@ -1,40 +1,40 @@
 {
 
-    "carpenter": "Carpenter",
-    "blacksmith": "Blacksmith",
-    "armorer": "Armorer",
-    "goldsmith": "Goldsmith",
-    "leatherworker": "Leatherworker",
-    "weaver": "Weaver",
-    "alchemist": "Alchemist",
-    "culinarian": "Culinarian",
+    "carpenter": "刻木匠",
+    "blacksmith": "锻铁匠",
+    "armorer": "铸甲匠",
+    "goldsmith": "雕金匠",
+    "leatherworker": "制革匠",
+    "weaver": "裁衣匠",
+    "alchemist": "炼金术士",
+    "culinarian": "烹调师",
 
 
-    "left-sidemenu-1": "Crafting Logs",
-    "left-sidemenu-setting": "Setting",
+    "left-sidemenu-1": "制作笔记",
+    "left-sidemenu-setting": "设置",
 
-    "right-sidemenu-title": "Crafting List",
-    "right-sidemenu-calbutton": "Calculate the Material",
-    "right-sidemenu-calbutton-collasped": "Calculate",
+    "right-sidemenu-title": "制作列表",
+    "right-sidemenu-calbutton": "计算材料",
+    "right-sidemenu-calbutton-collasped": "计算",
 
-    "crafter-recipes-title": "Find Crafting Log",
-    "crafter-recipes-pulldown-leveling": "Leveling",
+    "crafter-recipes-title": "寻找制作笔记",
+    "crafter-recipes-pulldown-leveling": "按级别",
 
-    "setting-language": "Language",
-    "setting-contact": "Contact / Feedback",
+    "setting-language": "数据语言",
+    "setting-contact": "联系/反馈",
 
-    "material-list-title": "Material Lists of calculation of Crafing List",
-    "material-list-loading": "Tataru is calculating material on your crafting list...",
-    "material-list-craftinglist": "Crafting List",
-    "material-list-crystal": "Crystal Lists",
-    "material-list-level1": "Material Level 1",
-    "material-list-level2": "Material Level 2",
-    "material-list-level3": "Material Level 3",
-    "material-list-level4": "Material Level 4",
+    "material-list-title": "计算制作清单的材料清单",
+    "material-list-loading": "獭獭路正在计算您制作清单上的材料....",
+    "material-list-craftinglist": "制作列表",
+    "material-list-crystal": "水晶列表",
+    "material-list-level1": "一级素材",
+    "material-list-level2": "二级素材",
+    "material-list-level3": "三级素材",
+    "material-list-level4": "四级素材",
 
-    "material-list-popover-nomaterial": "There is no Material",
-    "material-list-popover-title": "`s Material List",
+    "material-list-popover-nomaterial": "没有材料",
+    "material-list-popover-title": "的材料清单",
 
 
-    "recipe-table-column-item": "Item"
+    "recipe-table-column-item": "物品"
   }

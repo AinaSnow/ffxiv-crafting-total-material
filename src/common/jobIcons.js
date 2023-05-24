@@ -1,5 +1,5 @@
-// action job
-import Paladin from '../assets/img/icon/paladin.png';
+// action job 未实装意义不明
+/* import Paladin from '../assets/img/icon/paladin.png';
 import Warrior from '../assets/img/icon/warrior.png';
 import Gunbreaker from '../assets/img/icon/gunbreaker.png';
 import Darkknight from '../assets/img/icon/darkknight.png';
@@ -15,7 +15,7 @@ import Summoner from '../assets/img/icon/summoner.png';
 import Redmage from '../assets/img/icon/redmage.png';
 import Whitemage from '../assets/img/icon/whitemage.png';
 import Scholar from '../assets/img/icon/scholar.png';
-import Astrologian from '../assets/img/icon/astrologian.png';
+import Astrologian from '../assets/img/icon/astrologian.png'; */
 
 // craft job
 import { ReactComponent as Carpenter } from '../assets/img/icon/class_job_008.svg';
@@ -27,7 +27,7 @@ import { ReactComponent as Weaver } from '../assets/img/icon/class_job_013.svg';
 import { ReactComponent as Alchemist } from '../assets/img/icon/class_job_014.svg';
 import { ReactComponent as Culinarian } from '../assets/img/icon/class_job_015.svg';
 
-export const actionJobIcons = {
+/* export const actionJobIcons = {
   Paladin,
   Warrior,
   Gunbreaker,
@@ -45,7 +45,7 @@ export const actionJobIcons = {
   Whitemage,
   Scholar,
   Astrologian,
-};
+}; */
 
 export const craftJobIcons = {
   Carpenter,
